@@ -1,0 +1,28 @@
+name: Alejandro Bisquertt Blog
+favicon: null
+layout_spectrum: 0.9182003862224519
+typography_spectrum: 0.1786870495416224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8605857405345887
+  lightness: 0.3145733217243105
+  saturation: 0.7524240966886282
+  rhythmicContrast: 0.05486881849355996
+purpose: []
