@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Alejandro Bisquertt Blog]]></title>
-        <description><![CDATA[Alejandro Bisquertt Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Ideas sobre emprendimiento, Biologia y Tecnologia ]]></title>
+        <description><![CDATA[Ideas sobre emprendimiento, Biologia y Tecnologia ]]></description>
+        <link>https://thegrid.ai/alejandro-bisquertt-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 15:01:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 12:56:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alejandro-bisquertt-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Startup backed by big names aims to detect early cancer in blood - STAT]]></title>
+            <description><![CDATA[<article><h1>Startup backed by big names aims to detect early cancer in blood - STAT</h1><p>A top genetic sequencing company and a bevy of big-name investors are launching a new company that aims to detect cancer through a blood test. The startup, called Grail, aims to fish little bits of genetic material out of the blood, sequence them, and use them to identify extremely early cancers.</p><img src="http://www.statnews.com/wp-content/uploads/2016/01/CancerWalk_AP_050515015530.jpg"></article>]]></description>
+            <link>http://www.statnews.com/2016/01/10/liquid-biopsy-cancer-detection/</link>
+            <guid isPermaLink="false">cd488a71-1e4a-4f19-81b9-ebf9eaeebe3d</guid>
+            <pubDate>Tue, 22 Mar 2016 12:55:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Que futuro que nos espera]]></title>
             <description><![CDATA[<article><h1>Que futuro que nos espera</h1><p>Este libro nace de una simple clase en Stanford en donde Thiel  es invitado a comentar qué opina sobre emprendimiento y las notas de esas clases fueron transformadas por Blake Master en este espectacular libro, que en tan solo 200 paginas entrega información mucho más valiosa y aplicable que los clásicos libros de economía que uno ve en la universidad.</p></article>]]></description>
-            <link>undefinedque-futuro-que-nos-espera/index.html</link>
+            <link>https://thegrid.ai/alejandro-bisquertt-blog/que-futuro-que-nos-espera/index.html</link>
             <guid isPermaLink="false">9e7ea637-6f20-46b5-97f8-207bf00ac195</guid>
             <pubDate>Mon, 21 Mar 2016 15:01:40 GMT</pubDate>
         </item>
